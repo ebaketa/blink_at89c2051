@@ -1,5 +1,5 @@
-#SDCC (AT89C2051)
-##Blink example for AT89C2051 with SDCC
+# SDCC (AT89C2051)
+## Blink example for AT89C2051 with SDCC
 
 **Hardware:**
 - AT89C2051 Experimental Board

@@ -28,10 +28,11 @@ void main(void)
     {
         // turn LED on
         P1_0 = 0;
-        // wait 1 
+        // wait 1 second
         delay(1000);
         // turn LED off
         P1_0 = 1;
+        // wait 1 second
         delay(1000);
     }
 }

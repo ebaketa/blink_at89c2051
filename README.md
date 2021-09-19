@@ -9,3 +9,6 @@
 - Text Editor
 - SDCC (Compailer)
 - minipro Programmer Software)
+
+**Description**
+Simple program to blink LED on pin P1_0.

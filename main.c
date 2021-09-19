@@ -1,3 +1,4 @@
+// ********************************************************
 // Program:     Blink LED example
 // Author:      Elvis Baketa
 // Processor:   AT89C2051
@@ -5,16 +6,18 @@
 // Compiler:    SDCC (Linux)
 // Version:     0.1
 // Comment:     
+// ********************************************************
 
 #include <at89x051.h>
 
+// declare function
 void delayms(void);
 void delay(int data);
 
 // main function
 void main(void)
 {
-    //declare variable
+    // declare variable
     int i = 0;
     
     // run once
